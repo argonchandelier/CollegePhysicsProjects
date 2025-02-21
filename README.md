@@ -1,4 +1,4 @@
-# CollegePhysicsProjects
+# UniversityPhysicsProjects
 Compilation of physics projects from college
 
 by Logan Richan
